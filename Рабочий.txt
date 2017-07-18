@@ -1,0 +1,8 @@
+Option Public
+Option Declare
+Use "OpintAg"
+%INCLUDE "lsxsd.lss"
+Class C_OutputRKK	
+	Function CreateRKK(ss As  String) As String		
+	End Function	
+End Class
